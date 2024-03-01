@@ -22,9 +22,6 @@ RISC-V 架构的芯片的安全模块与文件级加密文件系统的结合也�
 - 能够运行在 openEuler RISC-V 版本上，并运行在 LicheePi4A 等典型的 RISC-V 开发板上
 
 ## 已有参考资料
-
-> 列出有利于开展项目的已有参考文献、开源代码等； 例如：
-
 - [ecryptfs](https://www.ecryptfs.org)
 - [openEuler RISC-V](https://gitee.com/openeuler/RISC-V)
 
